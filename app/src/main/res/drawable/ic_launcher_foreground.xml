@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- LED Bezel Display Frame -->
+    <path
+        android:fillColor="#181820"
+        android:pathData="M24,32 h60 a6,6 0 0,1 6,6 v32 a6,6 0 0,1 -6,6 h-60 a6,6 0 0,1 -6,-6 v-32 a6,6 0 0,1 6,-6 z" />
+        
+    <path
+        android:fillColor="#0D0D12"
+        android:pathData="M27,35 h54 a3,3 0 0,1 3,3 v26 a3,3 0 0,1 -3,3 h-54 a3,3 0 0,1 -3,-3 v-26 a3,3 0 0,1 3,-3 z" />
+        
+    <!-- Glowing LED Matrix Dots for "LED" -->
+    <!-- 'L' -->
+    <path
+        android:fillColor="#FF2A4D"
+        android:pathData="M31,40 h3 v16 h8 v3 h-11 z" />
+    <!-- 'E' -->
+    <path
+        android:fillColor="#FF2A4D"
+        android:pathData="M44,40 h10 v3 h-7 v3 h6 v3 h-6 v4 h7 v3 h-10 z" />
+    <!-- 'D' -->
+    <path
+        android:fillColor="#FF2A4D"
+        android:pathData="M56,40 h7 a6,6 0 0,1 6,6 v4 a6,6 0 0,1 -6,6 h-7 z M59,43 v10 h4 a3,3 0 0,0 3,-3 v-4 a3,3 0 0,0 -3,-3 z" />
+
+    <!-- Mic icon badge at bottom right -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M78,60 a6,6 0 1,1 0,12 a6,6 0 0,1 0,-12 z" />
+    <path
+        android:fillColor="#0B130E"
+        android:pathData="M77,63 a1,1 0 0,1 2,0 v3 a1,1 0 0,1 -2,0 z M75.5,65 a2.5,2.5 0 0,0 5,0 h1 a3.5,3.5 0 0,1 -3,3.4 v1.6 h-1 v-1.6 a3.5,3.5 0 0,1 -3,-3.4 z" />
+</vector>

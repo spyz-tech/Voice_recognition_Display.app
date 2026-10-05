@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Live LED Sign</string>
+    <string name="app_subtitle">Speak. Watch it scroll.</string>
+    
+    <string name="status_not_listening">Not Listening</string>
+    <string name="status_listening">Listening Live…</string>
+    <string name="status_error">Microphone Error</string>
+    <string name="status_ready">Ready</string>
+    
+    <string name="btn_start_listening">START LISTENING</string>
+    <string name="btn_stop_listening">STOP LISTENING</string>
+    <string name="btn_clear_screen">Clear Screen</string>
+    <string name="btn_display_message">Display Message</string>
+    <string name="btn_fullscreen">Fullscreen Sign</string>
+    <string name="btn_exit_fullscreen">Exit Fullscreen</string>
+    
+    <string name="placeholder_manual_input">Type a message manually…</string>
+    <string name="label_live_transcript">Live Transcript</string>
+    <string name="label_awaiting_speech">Awaiting voice input…</string>
+    <string name="label_language">Speech Language</string>
+    
+    <string name="tab_controls">Voice &amp; Text</string>
+    <string name="tab_customize">LED Style</string>
+    <string name="tab_presets">Presets</string>
+    
+    <string name="setting_color">LED Color</string>
+    <string name="setting_speed">Scroll Speed</string>
+    <string name="setting_font_size">LED Text Size</string>
+    <string name="setting_glow">Glow Intensity</string>
+    <string name="setting_brightness">Sign Brightness</string>
+    <string name="setting_scanlines">Scanline Effect</string>
+    <string name="setting_pixel_grid">Pixel Matrix Grid</string>
+    <string name="setting_mirror">Mirror Mode (Reflection)</string>
+    <string name="setting_blink">Blink Mode</string>
+    <string name="setting_direction">Scroll Direction</string>
+    <string name="setting_sound_reactive">Audio Glow Reactive</string>
+</resources>

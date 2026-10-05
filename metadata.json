@@ -1,0 +1,6 @@
+{
+  "name": "Live LED Voice Sign",
+  "description": "Real-time voice-transcribing digital LED scrolling signboard with glowing dot matrix display, speech recognition, color themes, scanline effects, and fullscreen mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
